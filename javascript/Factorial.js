@@ -2,6 +2,7 @@
 //正在解决问题
 //，测试 vs code 提交 到 github
 //测试成功
+//再次进行测试
 function factorialize(num){
   var s=1;
   for (var i=1;i<num;i++) {
