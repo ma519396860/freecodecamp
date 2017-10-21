@@ -4,6 +4,7 @@
 //测试成功
 //再次进行测试
 //1111111
+//10.45
 function factorialize(num){
   var s=1;
   for (var i=1;i<num;i++) {
